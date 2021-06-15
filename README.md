@@ -73,6 +73,46 @@ Selanjutnya mencoba akses route yang telah dibuat dengan mengakses http://localh
 Mengubah method about dalam controller page.
 ![Screenshot_225](https://user-images.githubusercontent.com/81457697/121992742-6b2bff00-cdcc-11eb-8ead-2579802f7c94.png)
 
+-Maka akan tampil seperti ini
+
+![Screenshot_214](https://user-images.githubusercontent.com/81457697/121993470-babefa80-cdcd-11eb-8c98-56a1762e9691.png)
+
+#Langkah 4 - Membuat Layout Web dengan CSS
+-Buat file css pada direktori public dengan nama style.css (copy file dari praktikum lab4_layout).
+
+![Screenshot_232](https://user-images.githubusercontent.com/81457697/121993581-ec37c600-cdcd-11eb-95a9-c06cdf0e0df3.png)
+
+#Kemudian buat folder template pada direktori view, lalu buat file header.php dan footer.php.
+
+![Screenshot_233](https://user-images.githubusercontent.com/81457697/121993705-2b661700-cdce-11eb-83ac-07e61c9dda65.png)
+![Screenshot_234](https://user-images.githubusercontent.com/81457697/121993714-2e610780-cdce-11eb-91ac-141bc00e2aba.png)
+
+#Kemudian ubah file about.php (/app/view/about.php) seperti berikut.
+<?= $this->include('template/header'); ?>
+<h1><?= $title; ?></h1>
+<hr>
+<p><?= $content; ?></p>
+<?= $this->include('template/footer'); ?>
+
+Kemudian refresh browser atau akses alamat http://localhost:8080/about
+
+![Screenshot_217](https://user-images.githubusercontent.com/81457697/121993849-69633b00-cdce-11eb-9ea7-8f87c5bbf163.png)
+
+Pertanyaan dan Tugas
+Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
+
+#Tampilan page about
+
+![Screenshot_218](https://user-images.githubusercontent.com/81457697/121993942-90217180-cdce-11eb-8516-06d83e344509.png)
+
+#tampilan page artikel
+
+![Screenshot_220](https://user-images.githubusercontent.com/81457697/121993973-9e6f8d80-cdce-11eb-9217-22a5baa6e9d8.png)
+
+#tampilan page kontak
+
+![Screenshot_221](https://user-images.githubusercontent.com/81457697/121994017-afb89a00-cdce-11eb-8eed-7b05c668ca4c.png)
+
 
 
 
