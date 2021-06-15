@@ -62,7 +62,7 @@ Selanjutnya mencoba akses route yang telah dibuat dengan mengakses http://localh
 #Menambahkan method baru pada controller page.
 -Method ini dapat diakses dengan menggunakan alamat: http://localhost:8080/page/tos
 
-![Screenshot_225](https://user-images.githubusercontent.com/81457697/121991105-35d1e200-cdc9-11eb-9893-fe804ad0f4a0.png)
+![Screenshot_230](https://user-images.githubusercontent.com/81457697/121993081-0de47d80-cdcd-11eb-9cc3-380370b056d7.png)
 
 #Langkah 3
 -Membuat file about.php di dalam direktori View (/app/view/about.php)
