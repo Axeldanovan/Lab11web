@@ -53,7 +53,7 @@ Selanjutnya mencoba akses route yang telah dibuat dengan mengakses http://localh
 #Langkah 2 - Membuat Controller
 -Membuat file page.php di dalam direktori Controller (/app/Controllers)
 
-![Screenshot_226](https://user-images.githubusercontent.com/81457697/121990990-f5726400-cdc8-11eb-9d3a-8dbd5aa31878.png)
+![Screenshot_231](https://user-images.githubusercontent.com/81457697/121993222-46845700-cdcd-11eb-8aa5-202de20c971d.png)
 
 -Kemudian refresh browser maka halaman sudah dapat diakses dan menampilkan hasilnya.
 
