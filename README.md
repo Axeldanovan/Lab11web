@@ -113,6 +113,40 @@ Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga
 
 ![Screenshot_221](https://user-images.githubusercontent.com/81457697/121994017-afb89a00-cdce-11eb-8eed-7b05c668ca4c.png)
 
+Praktikum 12: Framework Lanjutan (CRUD)
+Nama:Axel Danovan Susanto
+Nim:311910405
+Kelas:TI.19.A.2
+
+Langkah 1
+#Membuat Tabel Database
+
+![Screenshot_250](https://user-images.githubusercontent.com/81457697/122878424-f4f64200-d361-11eb-8944-f6a7fc45f6ce.png)
+
+Langkah 2 
+#Konfigurasi koneksi database
+
+![Screenshot_251](https://user-images.githubusercontent.com/81457697/122878796-574f4280-d362-11eb-9da9-c10d2c6df2cc.png)
+
+Langkah 3
+#Membuat Model
+
+![Screenshot_252](https://user-images.githubusercontent.com/81457697/122879040-a1d0bf00-d362-11eb-9e39-f3e8fd81e3c8.png)
+
+Langkah 4
+#Membuat Controller
+
+![Screenshot_253](https://user-images.githubusercontent.com/81457697/122879142-c5940500-d362-11eb-8881-e692909f0d5a.png)
+
+Langkah 5
+#Membuat View
+
+![Screenshot_254](https://user-images.githubusercontent.com/81457697/122879377-0724b000-d363-11eb-9ef8-9743f6800cb4.png)
+Kemudian membuka browser kembali, dan akses url : http://localhost:8080/artikel
+
+![122759193-e0fc0300-d2c3-11eb-8fb4-1e088f95b946](https://user-images.githubusercontent.com/81457697/122879688-6387cf80-d363-11eb-8541-027217ef7a71.png)
+
+
 
 
 
