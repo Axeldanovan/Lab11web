@@ -150,7 +150,7 @@ Belum ada data yang diampilkan. Kemudian coba tambahkan beberapa data pada datab
 ![Screenshot_255](https://user-images.githubusercontent.com/81457697/122880461-38ea4680-d364-11eb-9473-00feb2dd278d.png)
 Refresh kembali browser, sehingga akan ditampilkan hasilnya.
 
-![InkedScreenshot_152_LI](https://user-images.githubusercontent.com/81457697/122880711-81a1ff80-d364-11eb-9270-185e671589dc.jpg)
+![32113232132131132](https://user-images.githubusercontent.com/81457697/122885938-b8c6df80-d369-11eb-97b2-7a4c8117ca3a.png)
 
 Langkah 6
 #Membuat Tampilan Detail Artikel
