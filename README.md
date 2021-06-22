@@ -144,7 +144,7 @@ Langkah 5
 ![Screenshot_254](https://user-images.githubusercontent.com/81457697/122879377-0724b000-d363-11eb-9ef8-9743f6800cb4.png)
 Kemudian membuka browser kembali, dan akses url : http://localhost:8080/artikel
 
-![122759193-e0fc0300-d2c3-11eb-8fb4-1e088f95b946](https://user-images.githubusercontent.com/81457697/122879688-6387cf80-d363-11eb-8541-027217ef7a71.png)
+
 
 
 
