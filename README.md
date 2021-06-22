@@ -144,6 +144,91 @@ Langkah 5
 ![Screenshot_254](https://user-images.githubusercontent.com/81457697/122879377-0724b000-d363-11eb-9ef8-9743f6800cb4.png)
 Kemudian membuka browser kembali, dan akses url : http://localhost:8080/artikel
 
+![2131313211123](https://user-images.githubusercontent.com/81457697/122879830-8914d900-d363-11eb-921f-8120bf9d3368.png)
+Belum ada data yang diampilkan. Kemudian coba tambahkan beberapa data pada database agar dapat ditampilkan datanya.
+
+![Screenshot_255](https://user-images.githubusercontent.com/81457697/122880461-38ea4680-d364-11eb-9473-00feb2dd278d.png)
+Refresh kembali browser, sehingga akan ditampilkan hasilnya.
+
+![InkedScreenshot_152_LI](https://user-images.githubusercontent.com/81457697/122880711-81a1ff80-d364-11eb-9270-185e671589dc.jpg)
+
+Langkah 6
+#Membuat Tampilan Detail Artikel
+
+![Screenshot_257](https://user-images.githubusercontent.com/81457697/122881362-494ef100-d365-11eb-9f03-0dfe32f1ead8.png)
+
+Langkah 7 
+#Membuat View Detail
+
+![Screenshot_258](https://user-images.githubusercontent.com/81457697/122881560-7dc2ad00-d365-11eb-8f5e-46e743ba0c31.png)
+
+Langkah 8 
+#Membuat Routing untuk artikel detail
+
+![Screenshot_259](https://user-images.githubusercontent.com/81457697/122881822-c5493900-d365-11eb-8705-bfeabddb1d1d.png)
+Buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artikel detail.
+
+![23121213123123213](https://user-images.githubusercontent.com/81457697/122882481-7059f280-d366-11eb-89bb-0f82412274a3.png)
+
+Langkah 9 
+#Membuat Menu Admin
+
+![Screenshot_260](https://user-images.githubusercontent.com/81457697/122882989-ee1dfe00-d366-11eb-8f7f-f904a79d1293.png)
+Selanjutnya buat view untuk tampilan admin dengan nama admin_index.php
+
+![Screenshot_262](https://user-images.githubusercontent.com/81457697/122883489-743a4480-d367-11eb-9737-fc02ed9869e0.png)
+![Screenshot_263](https://user-images.githubusercontent.com/81457697/122883516-7bf9e900-d367-11eb-9461-93050c1d4604.png)
+
+Tambahkan routing untuk menu admin seperti berikut:
+
+![Screenshot_264](https://user-images.githubusercontent.com/81457697/122883801-bbc0d080-d367-11eb-89b4-99bf8e2665cb.png)
+
+Kemudian Akses menu admin dengan url http://localhost:8080/admin/artikel
+
+![321321213312321123](https://user-images.githubusercontent.com/81457697/122884058-f3c81380-d367-11eb-8197-4a9ebb6a6064.png)
+
+Langkah 10
+#Menambah Data Artikel
+
+![Screenshot_265](https://user-images.githubusercontent.com/81457697/122884396-4dc8d900-d368-11eb-8e8a-cdaa7dbf8a04.png)
+
+Kemudian buat view untuk form tambah dengan nama form_add.php
+
+![Screenshot_266](https://user-images.githubusercontent.com/81457697/122884629-8bc5fd00-d368-11eb-9966-2af5ef8b198d.png)
+
+Berikut tampilan form untuk menambah data artikel :
+
+![123321312112132223](https://user-images.githubusercontent.com/81457697/122884817-b617ba80-d368-11eb-86a7-09790baf4cb4.png)
+
+Langkah 11
+#Mengubah Data
+
+![Screenshot_267](https://user-images.githubusercontent.com/81457697/122885077-efe8c100-d368-11eb-9f1f-704c3396eb83.png)
+
+Kemudian buat view untuk form tambah dengan nama form_edit.php
+
+![Screenshot_268](https://user-images.githubusercontent.com/81457697/122885282-245c7d00-d369-11eb-9c0b-1b4aa2595d69.png)
+
+Berikut tampilan form untuk mengubah data artikel :
+
+![12313221313231123213](https://user-images.githubusercontent.com/81457697/122885443-49e98680-d369-11eb-9515-034c62787fda.png)
+
+Langkah 12 
+#Menghapus Data
+
+![Screenshot_269](https://user-images.githubusercontent.com/81457697/122885684-80270600-d369-11eb-943d-076f06495e9a.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
