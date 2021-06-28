@@ -239,6 +239,33 @@ Langkah 3
 
 ![Screenshot_282](https://user-images.githubusercontent.com/81457697/123712940-8a7f5d80-d89d-11eb-9268-75d3fd332fbc.png)
 
+Uji Coba Login
+Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
+
+![123633612-9d654400-d843-11eb-924f-4579451ad058](https://user-images.githubusercontent.com/81457697/123713422-93bcfa00-d89e-11eb-9da0-13ff818d7786.png)
+
+Langkah 4
+#Menambahkan Auth Filter
+
+![Screenshot_283](https://user-images.githubusercontent.com/81457697/123713560-e3032a80-d89e-11eb-9daf-8e895589a47f.png)
+
+Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
+
+![Screenshot_284](https://user-images.githubusercontent.com/81457697/123713662-15ad2300-d89f-11eb-83f2-565ba37c90de.png)
+
+Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
+
+![Screenshot_285](https://user-images.githubusercontent.com/81457697/123713813-6b81cb00-d89f-11eb-8c29-9e0ad68a4777.png)
+ 
+ Percobaan Akses Menu Admin
+ Buka url dengan alamat http://localhost:8080/admin/artikel 
+ 
+ ![31213313122133](https://user-images.githubusercontent.com/81457697/123713885-910ed480-d89f-11eb-8b62-28f48ff5a05b.png)
+ 
+
+
+
+
 
 
 
