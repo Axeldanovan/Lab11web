@@ -113,7 +113,7 @@ Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga
 
 ![Screenshot_221](https://user-images.githubusercontent.com/81457697/121994017-afb89a00-cdce-11eb-8eed-7b05c668ca4c.png)
 
-Praktikum 12: Framework Lanjutan (CRUD)
+PRAKTIKUM 12: Framework Lanjutan (CRUD)
 Nama:Axel Danovan Susanto
 Nim:311910405
 Kelas:TI.19.A.2
@@ -216,9 +216,9 @@ Berikut tampilan form untuk mengubah data artikel :
 Langkah 12 
 #Menghapus Data
 
-![Screenshot_269](https://user-images.githubusercontent.com/81457697/122885684-80270600-d369-11eb-943d-076f06495e9a.png)
+![Screenshot_269](https://user-images.githubusercontent.com/81457697/122885684-80270600-d369-11eb-943d-076f06495e9a.pn
 
-Praktikum 13
+#PRAKTIKUM 13 
 
 #Membuat Tabel Pada Mysql
 
