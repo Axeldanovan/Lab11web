@@ -218,7 +218,7 @@ Langkah 12
 ![Screenshot_269](https://user-images.githubusercontent.com/81457697/122885684-80270600-d369-11eb-943d-076f06495e9a.pn
  
  
- Praktikum 13 Framework Codeigniter: Lanjutan tugas
+ # Praktikum 13 Framework Codeigniter: Lanjutan tugas
 
 #Membuat Tabel Pada Mysql
 
