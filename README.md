@@ -1,5 +1,4 @@
-# Lab11web Praktikum 12 Code Igniter Lanjutan Tugas
-Praktikum 11 - Pemrograman Web (PHP Framework
+# Praktikum 11 - Pemrograman Web (PHP Framework)
 
 Laporan Praktikum
 Persiapan
