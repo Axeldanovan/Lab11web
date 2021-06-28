@@ -218,6 +218,30 @@ Langkah 12
 
 ![Screenshot_269](https://user-images.githubusercontent.com/81457697/122885684-80270600-d369-11eb-943d-076f06495e9a.png)
 
+Praktikum 13
+#Membuat Tabel Pada Mysql
+
+![Screenshot_279](https://user-images.githubusercontent.com/81457697/123712607-e09fd100-d89c-11eb-9818-795a377670bc.png)
+
+Langkah 1
+#Membuat User Model
+
+![Screenshot_280](https://user-images.githubusercontent.com/81457697/123712770-31afc500-d89d-11eb-9f0a-bc6b6ba7e87e.png)
+
+Langkah 2
+#Membuat Controller User
+
+![Screenshot_281](https://user-images.githubusercontent.com/81457697/123712824-4ee49380-d89d-11eb-8164-ec4f0b3bc6d9.png)
+
+
+Langkah 3
+#Membuat View Login
+
+![Screenshot_282](https://user-images.githubusercontent.com/81457697/123712940-8a7f5d80-d89d-11eb-9268-75d3fd332fbc.png)
+
+
+
+
 
 
 
