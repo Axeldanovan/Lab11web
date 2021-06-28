@@ -262,6 +262,12 @@ Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
  
  ![31213313122133](https://user-images.githubusercontent.com/81457697/123713885-910ed480-d89f-11eb-8b62-28f48ff5a05b.png)
  
+ Langkah 5
+#Membuat Fungsi Logout
+
+![123123213213321231213 ](https://user-images.githubusercontent.com/81457697/123714490-9c163480-d8a0-11eb-86d1-7a6f1c5d9f08.jpg)
+
+ 
 
 
 
