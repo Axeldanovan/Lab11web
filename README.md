@@ -317,7 +317,8 @@ Upload Gambar Menambahkan fungsi unggah gambar pada tambah artikel. Buka kembali
 
 # Ujicoba file upload dengan mengakses menu tambah artikel
 
-![124372968-c7da5580-dcb8-11eb-8431-d2880f167027](https://user-images.githubusercontent.com/81457697/124726326-d8e4ca00-df37-11eb-8b02-229bfe89fbb5.png)
+![122884817-b617ba80-d368-11eb-86a7-09790baf4cb4](https://user-images.githubusercontent.com/81457697/124726569-121d3a00-df38-11eb-833b-006725307f99.png)
+
 
 
 
