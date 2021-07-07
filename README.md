@@ -268,7 +268,63 @@ Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
 
 ![123123213213321231213 ](https://user-images.githubusercontent.com/81457697/123714490-9c163480-d8a0-11eb-86d1-7a6f1c5d9f08.jpg)
 
- 
+
+# Praktikum 14 Pemrograman Web (Framework Lanjutan - Pagination dan Pencarian)
+
+ # Nama:Axel Danovan Susanto
+ # Nim:311910405
+ # Kelas: TI.19.A.2
+  
+  # Langkah 1 
+Pada Codeigniter 4, fungsi pagination sudah tersedia pada Library sehingga cukup
+mudah menggunakannya Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi
+kode pada method admin_index seperti berikut.
+
+![Screenshot_296](https://user-images.githubusercontent.com/81457697/124722863-a9808e00-df34-11eb-8c51-5af7acb13d27.png)
+
+# Langkah 2
+ Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut dibawah deklarasi tabel data.
+
+![Screenshot_297](https://user-images.githubusercontent.com/81457697/124723177-f6646480-df34-11eb-890c-c13e134f9ebc.png)
+
+# Langkah 3
+ Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat
+hasilnya.
+
+![124372968-c7da5580-dcb8-11eb-8431-d2880f167027](https://user-images.githubusercontent.com/81457697/124723492-4f33fd00-df35-11eb-887d-3feb71817a51.png)
+
+# Langkah 4
+Membuat Pencarian Pencarian data digunakan untuk memfilter data Untuk membuat pencarian data, buka kembali Controller Artikel, pada method admin_index ubah kodenya seperti berikut
+
+![Screenshot_298](https://user-images.githubusercontent.com/81457697/124724397-2a8c5500-df36-11eb-8814-bf1750cea80e.png)
+
+# Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form pencarian sebelum deklarasi tabel seperti berikut:
+
+![Screenshot_299](https://user-images.githubusercontent.com/81457697/124724896-9b337180-df36-11eb-81dd-599f3884f492.png)
+
+# Dan pada link pager ubah seperti berikut.
+
+![Screenshot_300](https://user-images.githubusercontent.com/81457697/124725102-cd44d380-df36-11eb-82e5-47e855c024a2.png)
+
+# Langkah 5
+Upload Gambar Menambahkan fungsi unggah gambar pada tambah artikel. Buka kembali Controller Artikel, sesuaikan kode pada method add seperti berikut:
+
+![Screenshot_301](https://user-images.githubusercontent.com/81457697/124725607-2e6ca700-df37-11eb-92d0-7b4805fc0f79.png)
+
+# Kemudian pada file views/artikel/form_add.php tambahkan field input file seperti berikut.
+
+![Screenshot_302](https://user-images.githubusercontent.com/81457697/124726134-b2269380-df37-11eb-88fa-a4489559a69a.png)
+
+# Ujicoba file upload dengan mengakses menu tambah artikel
+
+![124372968-c7da5580-dcb8-11eb-8431-d2880f167027](https://user-images.githubusercontent.com/81457697/124726326-d8e4ca00-df37-11eb-8b02-229bfe89fbb5.png)
+
+
+
+
+
+
+
 
 
 
